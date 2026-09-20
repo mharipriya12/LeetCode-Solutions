@@ -1,2 +1,6 @@
-# LeetCode-Solutions
-My LeetCode problem-solving solutions in C++
+# LeetCode Solutions
+
+LeetCode problem solutions implemented in C++.
+
+## Language
+- C++
